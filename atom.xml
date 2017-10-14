@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Life|Doe</title>
+  
+  <subtitle>一花一世界-一叶一菩提</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/IsFile/"/>
+  <updated>2017-09-26T14:43:59.547Z</updated>
+  <id>https://github.com/IsFile/</id>
+  
+  <author>
+    <name>Life Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python之禅</title>
+    <link href="https://github.com/IsFile/2017/09/26/python%E4%B9%8B%E7%A6%85/"/>
+    <id>https://github.com/IsFile/2017/09/26/python之禅/</id>
+    <published>2017-09-26T14:39:08.382Z</published>
+    <updated>2017-09-26T14:43:59.547Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>The Zen of Python, by Tim Peters<br>Beautiful is better than ugly.<br>Explicit is better than implicit.<br>Simple is better than complex.<br>Complex is better than complicated.<br>Flat is better than nested.<br><a id="more"></a><br>Sparse is better than dense.<br>Readability counts.<br>Special cases aren’t special enough to break the rules.<br>Although practicality beats purity.<br>Errors should never pass silently.<br>Unless explicitly silenced.<br>In the face of ambiguity, refuse the temptation to guess.<br>There should be one– and preferably only one –obvious way to do it.<br>Although that way may not be obvious at first unless you’re Dutch.<br>Now is better than never.<br>Although never is often better than <em>right</em> now.<br>If the implementation is hard to explain, it’s a bad idea.<br>If the implementation is easy to explain, it may be a good idea.<br>Namespaces are one honking great idea – let’s do more of those!<br><img src="http://owoncd3wp.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170926223026.jpg" alt="enter description here"><br>以下是翻译</p><p>优美胜于丑陋（Python 以编写优美的代码为目标）<br>明了胜于晦涩（优美的代码应当是明了的，命名规范，风格相似）<br>简洁胜于复杂（优美的代码应当是简洁的，不要有复杂的内部实现）<br>复杂胜于凌乱（如果复杂不可避免，那代码间也不能有难懂的关系，要保持接口简洁）<br>扁平胜于嵌套（优美的代码应当是扁平的，不能有太多的嵌套）<br>间隔胜于紧凑（优美的代码有适当的间隔，不要奢望一行代码解决问题）<br>可读性很重要（优美的代码是可读的）<br>即便假借特例的实用性之名，也不可违背这些规则（这些规则至高无上）<br>不要包容所有错误，除非你确定需要这样做（精准地捕获异常，不写 except:pass 风格的代码）<br>当存在多种可能，不要尝试去猜测<br>而是尽量找一种，最好是唯一一种明显的解决方案（如果不确定，就用穷举法）<br>虽然这并不容易，因为你不是 Python 之父（这里的 Dutch 是指 Guido ）<br>做也许好过不做，但不假思索就动手还不如不做（动手之前要细思量）<br>如果你无法向人描述你的方案，那肯定不是一个好方案；反之亦然（方案测评标准）<br>命名空间是一种绝妙的理念，我们应当多加利用（倡导与号召）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The Zen of Python, by Tim Peters&lt;br&gt;Beautiful is better than ugly.&lt;br&gt;Explicit is better than implicit.&lt;br&gt;Simple is better than complex.&lt;br&gt;Complex is better than complicated.&lt;br&gt;Flat is better than nested.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="python," scheme="https://github.com/IsFile/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「醍醐灌顶」的顶级毒鸡汤</title>
+    <link href="https://github.com/IsFile/2017/09/25/%E3%80%8C%E9%86%8D%E9%86%90%E7%81%8C%E9%A1%B6%E3%80%8D%E7%9A%84%E9%A1%B6%E7%BA%A7%E6%AF%92%E9%B8%A1%E6%B1%A4/"/>
+    <id>https://github.com/IsFile/2017/09/25/「醍醐灌顶」的顶级毒鸡汤/</id>
+    <published>2017-09-25T13:15:18.111Z</published>
+    <updated>2017-09-25T13:30:58.559Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>竹子用了4年的时间， 仅仅长了3cm， 在第五年开始，却以每天30cm的速度疯狂的生长， 仅仅用了六周的时间就长到了15米。其实，在前面的四年， 竹子将根在土壤里延伸了数百平米， 做人做事亦是如此， 不要担心你此时此刻的付出得不到回报， 因为这些付出都是为了扎根，厚积薄发。<br>Where There is a Will There is a Way，所以不要浮躁，每天做好自己，努力扎根，努力成长，不要轻言放弃，总有一天，你会知道原来自己是个土豆。<br><a id="more"></a><br><img src="http://owoncd3wp.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/bg.jpg" alt="enter description here"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;竹子用了4年的时间， 仅仅长了3cm， 在第五年开始，却以每天30cm的速度疯狂的生长， 仅仅用了六周的时间就长到了15米。其实，在前面的四年， 竹子将根在土壤里延伸了数百平米， 做人做事亦是如此， 不要担心你此时此刻的付出得不到回报， 因为这些付出都是为了扎根，厚积薄发。&lt;br&gt;Where There is a Will There is a Way，所以不要浮躁，每天做好自己，努力扎根，努力成长，不要轻言放弃，总有一天，你会知道原来自己是个土豆。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="鸡汤," scheme="https://github.com/IsFile/tags/%E9%B8%A1%E6%B1%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不同国家的语言代码缩写</title>
+    <link href="https://github.com/IsFile/2017/09/23/%E4%B8%8D%E5%90%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/"/>
+    <id>https://github.com/IsFile/2017/09/23/不同国家的语言代码/</id>
+    <published>2017-09-23T09:21:52.321Z</published>
+    <updated>2017-09-23T10:41:54.927Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>不同国家的语言代码缩写<br>方便查询使用<br> <a id="more"></a></p><h1 align="center">列表内容</h1><table><thead><tr><th style="text-align:left">国家/地区</th><th style="text-align:left">语言代码</th><th style="text-align:left">国家地区</th><th style="text-align:left">语言代码</th></tr></thead><tbody><tr><td style="text-align:left">简体中文(中国)</td><td style="text-align:left">zh-cn</td><td style="text-align:left">简体中文(台湾地区)</td><td style="text-align:left">zh-tw</td></tr><tr><td style="text-align:left">繁体中文(香港)</td><td style="text-align:left">zh-hk</td><td style="text-align:left">英语(香港)</td><td style="text-align:left">en-hk</td></tr><tr><td style="text-align:left">英语(美国)</td><td style="text-align:left">en-us</td><td style="text-align:left">英语(英国)</td><td style="text-align:left">en-gb</td></tr><tr><td style="text-align:left">英语(全球)</td><td style="text-align:left">en-ww</td><td style="text-align:left">英语(加拿大)</td><td style="text-align:left">en-ca</td></tr><tr><td style="text-align:left">英语(澳大利亚)</td><td style="text-align:left">en-au</td><td style="text-align:left">英语(爱尔兰)</td><td style="text-align:left">en-ie</td></tr><tr><td style="text-align:left">英语(芬兰)</td><td style="text-align:left">en-fi</td><td style="text-align:left">芬兰语(芬兰)</td><td style="text-align:left">fi-fi</td></tr><tr><td style="text-align:left">英语(丹麦)</td><td style="text-align:left">en-dk</td><td style="text-align:left">丹麦语(丹麦)</td><td style="text-align:left">da-dk</td></tr><tr><td style="text-align:left">英语(以色列)</td><td style="text-align:left">en-il</td><td style="text-align:left">希伯来语(以色列)</td><td style="text-align:left">he-il</td></tr><tr><td style="text-align:left">英语(南非)</td><td style="text-align:left">en-za</td><td style="text-align:left">英语(印度)</td><td style="text-align:left">en-in</td></tr><tr><td style="text-align:left">英语(挪威)</td><td style="text-align:left">en-no</td><td style="text-align:left">英语(新加坡)</td><td style="text-align:left">en-sg</td></tr><tr><td style="text-align:left">英语(新西兰)</td><td style="text-align:left">en-nz</td><td style="text-align:left">英语(印度尼西亚)</td><td style="text-align:left">en-id</td></tr><tr><td style="text-align:left">英语(菲律宾)</td><td style="text-align:left">en-ph</td><td style="text-align:left">英语(泰国)</td><td style="text-align:left">en-th</td></tr><tr><td style="text-align:left">英语(马来西亚)</td><td style="text-align:left">en-my</td><td style="text-align:left">英语(阿拉伯)</td><td style="text-align:left">en-xa</td></tr><tr><td style="text-align:left">韩文(韩国)</td><td style="text-align:left">ko-kr</td><td style="text-align:left">日语(日本)</td><td style="text-align:left">ja-jp</td></tr><tr><td style="text-align:left">荷兰语(荷兰)</td><td style="text-align:left">nl-nl</td><td style="text-align:left">荷兰语(比利时)</td><td style="text-align:left">nl-be</td></tr><tr><td style="text-align:left">葡萄牙语(葡萄牙)</td><td style="text-align:left">pt-pt</td><td style="text-align:left">葡萄牙语(巴西)</td><td style="text-align:left">pt-br</td></tr><tr><td style="text-align:left">法语(法国)</td><td style="text-align:left">fr-fr</td><td style="text-align:left">法语(卢森堡)</td><td style="text-align:left">fr-lu</td></tr><tr><td style="text-align:left">法语(瑞士)</td><td style="text-align:left">fr-ch</td><td style="text-align:left">法语(比利时)</td><td style="text-align:left">fr-be</td></tr><tr><td style="text-align:left">法语(加拿大)</td><td style="text-align:left">fr-ca</td><td style="text-align:left">西班牙语(拉丁美洲)</td><td style="text-align:left">es-la</td></tr><tr><td style="text-align:left">西班牙语(西班牙)</td><td style="text-align:left">es-es</td><td style="text-align:left">西班牙语(阿根廷)</td><td style="text-align:left">es-ar</td></tr><tr><td style="text-align:left">西班牙语(美国)</td><td style="text-align:left">es-us</td><td style="text-align:left">西班牙语(墨西哥)</td><td style="text-align:left">es-mx</td></tr><tr><td style="text-align:left">西班牙语(哥伦比亚)</td><td style="text-align:left">es-co</td><td style="text-align:left">西班牙语(波多黎各)</td><td style="text-align:left">es-pr</td></tr><tr><td style="text-align:left">德语(德国)</td><td style="text-align:left">de-de</td><td style="text-align:left">德语(奥地利)</td><td style="text-align:left">de-at</td></tr><tr><td style="text-align:left">德语(瑞士)</td><td style="text-align:left">de-ch</td><td style="text-align:left">俄语(俄罗斯)</td><td style="text-align:left">ru-ru</td></tr><tr><td style="text-align:left">意大利语(意大利)</td><td style="text-align:left">it-it</td><td style="text-align:left">希腊语(希腊)</td><td style="text-align:left">el-gr</td></tr><tr><td style="text-align:left">挪威语(挪威)</td><td style="text-align:left">no-no</td><td style="text-align:left">匈牙利语(匈牙利)</td><td style="text-align:left">hu-hu</td></tr><tr><td style="text-align:left">土耳其语(土耳其)</td><td style="text-align:left">tr-tr</td><td style="text-align:left">捷克语(捷克共和国)</td><td style="text-align:left">cs-cz</td></tr><tr><td style="text-align:left">斯洛文尼亚语</td><td style="text-align:left">sl-sl</td><td style="text-align:left">波兰语(波兰)</td><td style="text-align:left">pl-pl</td></tr><tr><td style="text-align:left">瑞典语(瑞典)</td><td style="text-align:left">sv-se</td><td style="text-align:left">西班牙语(智利)</td><td style="text-align:left">es-cl</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不同国家的语言代码缩写&lt;br&gt;方便查询使用&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="国家,代码,语言,中国" scheme="https://github.com/IsFile/tags/%E5%9B%BD%E5%AE%B6-%E4%BB%A3%E7%A0%81-%E8%AF%AD%E8%A8%80-%E4%B8%AD%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>古训《增广贤文》</title>
+    <link href="https://github.com/IsFile/2017/09/22/%E5%8F%A4%E8%AE%AD%E3%80%8A%E5%A2%9E%E5%B9%BF%E8%B4%A4%E6%96%87%E3%80%8B/"/>
+    <id>https://github.com/IsFile/2017/09/22/古训《增广贤文》/</id>
+    <published>2017-09-22T11:50:03.727Z</published>
+    <updated>2017-09-23T10:45:15.940Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="古训《增广贤文》"><a href="#古训《增广贤文》" class="headerlink" title="古训《增广贤文》"></a>古训《增广贤文》</h1><p>昔时贤文，诲汝谆谆，集韵增文，多见多闻。</p><p>观今宜鉴古，无古不成今。</p><p>知己知彼，将心比心。</p><p>酒逢知己饮，诗向会人吟。</p><a id="more"></a><p>相识满天下，知心能几人。</p><p>相逢好似初相识，到老终无怨恨心。</p><p>近水知鱼性，近山识鸟音。</p><p>易涨易退山溪水，易反易覆小人心。</p><p>运去金成铁，时来铁似金，读书须用意，一字值千金。</p><p>逢人且说三分话，未可全抛一片心。</p><p>有意栽花花不发，无心插柳柳成阴。</p><p>画虎画皮难画骨，知人知面不知心。</p><p>钱财如粪土，仁义值千金。</p><p>流水下滩非有意，白云出岫本无心。</p><p>当时若不登高望，谁信东流海洋深。</p><p>路遥知马力，事久见人心。</p><p>两人一般心，无钱堪买金，一人一般心，有钱难买针。</p><p>相见易得好，久住难为人。</p><p>马行无力皆因瘦，人不风流只为贫。</p><p>饶人不是痴汉，痴汉不会饶人。</p><p>是亲不是亲，非亲却是亲。</p><p>美不美，乡中水，亲不亲，故乡人。</p><p>莺花犹怕春光老，岂可教人枉度春。</p><p>相逢不饮空归去，洞口桃花也笑人。</p><p>红粉佳人休使老，风流浪子莫教贫。</p><p>在家不会迎宾客，出外方知少主人。</p><p>黄金无假，阿魏无真。</p><p>客来主不顾，应恐是痴人。</p><p>贫居闹市无人问，富在深山有远亲。</p><p>谁人背后无人说，哪个人前不说人。</p><p>有钱道真语，无钱语不真。</p><p>不信但看筵中酒，杯杯先劝有钱人。</p><p>闹里有钱，静处安身。</p><p>来如风雨，去似微尘。</p><p>长江后浪推前浪，世上新人赶旧人。</p><p>近水楼台先得月，向阳花木早逢春。</p><p>莫道君行早，更有早行人。</p><p>莫信直中直，须防仁不仁。</p><p>山中有直树，世上无直人。</p><p>自恨枝无叶，莫怨太阳偏。</p><p>大家都是命，半点不由人。</p><p>一年之计在于春，一日之计在于寅，一家之计在于和，一生之计在于勤。</p><p>责人之心责己，恕己之心恕人。</p><p>守口如瓶，防意如城。</p><p>宁可人负我，切莫我负人。</p><p>再三须慎意，第一莫欺心。</p><p>虎生犹可近，人熟不堪亲。</p><p>来说是非者，便是是非人。</p><p>远水难救近火，远亲不如近邻。</p><p>有茶有酒多兄弟，急难何曾见一人。</p><p>人情似纸张张薄，世事如棋局局新。</p><p>山中也有千年树，世上难逢百岁人。</p><p>力微休负重，言轻莫劝人。</p><p>无钱休入众，遭难莫寻亲。</p><p>平生莫作皱眉事，世上应无切齿人。</p><p>士者国之宝，儒为席上珍。</p><p>若要断酒法，醒眼看醉人。</p><p>求人须求大丈夫，济人须济急时无。</p><p>渴时一滴如甘露，醉后添杯不如无。</p><p>久住令人贱，频来亲也疏。</p><p>酒中不语真君子，财上分明大丈夫。</p><p>出家如初，成佛有余。</p><p>积金千两，不如明解经书。</p><p>养子不教如养驴，养女不教如养猪。</p><p>有田不耕仓廪虚，有书不读子孙愚。</p><p>仓廪虚兮岁月乏，子孙愚兮礼义疏。</p><p>同君一席话，胜读十年书。</p><p>人不通今古，马牛如襟裾。</p><p>茫茫四海人无数，哪个男儿是丈夫。</p><p>白酒酿成缘好客，黄金散尽为收书。</p><p>救人一命，胜造七级浮屠。</p><p>城门失火，殃及池鱼。</p><p>庭前生瑞草，好事不如无。</p><p>欲求生富贵，须下死工夫。</p><p>百年成之不足，一旦败之有余。</p><p>人心似铁，官法如炉。</p><p>善化不足，恶化有余。</p><p>水太清则无鱼，人至察则无徒。</p><p>知者减半，省者全无。</p><p>在家由父，出家从夫。</p><p>痴人畏妇，贤女敬夫。</p><p>是非终日有，不听自然无。</p><p>宁可正而不足，不可邪而有余。</p><p>宁可信其有，不可信其无。</p><p>竹篱茅舍风光好，道院僧堂终不如。</p><p>命里有时终须有，命里无时莫强求。</p><p>道院迎仙客，书堂隐相儒。</p><p>庭栽栖凤竹，池养化龙鱼。</p><p>结交须胜己，似我不如无。</p><p>但看三五日，相见不如初。</p><p>人情似水分高下，世事如云任卷舒。</p><p>会说说都是，不会说无礼。</p><p>磨刀恨不利，刀利伤人指。</p><p>求财恨不得，财多害自己。</p><p>知足常足，终身不辱。</p><p>知止常止，终身不耻。</p><p>有福伤财，无福伤己。</p><p>差之毫厘，失之千里。</p><p>若登高必自卑，若涉远必自迩。</p><p>三思而行，再思可矣。</p><p>使口不如自走，求人不如求己。</p><p>小时是兄弟，长大各乡里。</p><p>妒财莫妒食，怨生莫怨死。</p><p>人见白头嗔，我见白头喜。</p><p>多少少年亡，不到白头死。</p><p>墙有逢，壁有耳。</p><p>好事不出门，恶事传千里。</p><p>贼是小人，知过君子。</p><p>君子固穷，小人穷斯滥也。</p><p>贫穷自在，富贵多忧。</p><p>不以我为德，反以我为仇。</p><p>宁向直中取，不可曲中求。</p><p>人无远虑，必有近忧。</p><p>知我者为我心忧，不知我者谓我何求。</p><p>晴天不肯去，只待雨淋头。</p><p>成事莫说，覆水难收。</p><p>是非只为多开口，烦恼皆因强出头。</p><p>忍得一时之气，免得百日之忧。</p><p>近来学得乌龟法，得缩头时且缩头。</p><p>惧法朝朝乐，欺公日日忧。</p><p>人生一世，草生一春。</p><p>黑发不知勤学早，看看又是白头翁。</p><p>月到十五光明少，人到中年万事休。</p><p>儿孙自有儿孙福，莫为儿孙作马牛。</p><p>人生不满百，常怀千岁忧。</p><p>今朝有酒今朝醉，明日愁来明日忧。</p><p>路逢险处难回避，事到头来不自由。</p><p>药能医假病，酒不解真愁。</p><p>人贫不语，水平不流。</p><p>一家有女百家求，一马不行百马忧。</p><p>有花方酌酒，无月不登楼。</p><p>三杯通大道，一醉解千愁。</p><p>深山毕竟藏猛虎，大海终须纳细流。</p><p>惜花须检点，爱月不梳头。</p><p>大抵选他肌骨好，不擦红粉也风流。</p><p>受恩深处宜先退，得意浓时便可休。</p><p>莫待是非来入耳，从前恩爱反为仇。</p><p>留得五湖明月在，不愁无处下金钩。</p><p>休别有鱼处，莫恋浅滩头。</p><p>去时终须去，再三留不住。</p><p>忍一句，息一怒，饶一着，退一步。</p><p>三十不豪，四十不富，五十将来寻死路。</p><p>生不论魂，死不认尸。</p><p>父母恩深终有别，夫妻义重也分离。</p><p>人生似鸟同林宿，大限来时各自飞。</p><p>人善被人欺，马善被人骑。</p><p>人无横财不富，马无野草不肥。</p><p>人恶人怕天不怕，人善人欺天不欺。</p><p>善恶到头终有报，只争来早与来迟。</p><p>黄河尚有澄清日，岂可人无得运时。</p><p>得宠思辱，安居虑危。</p><p>念念有如临敌日，心心常似过桥时。</p><p>英雄行险道，富贵似花枝。</p><p>人情莫道春光好，只怕秋来有冷时。</p><p>送君千里，终须一别。</p><p>但将冷眼看螃蟹，看你横行到几时。</p><p>见事莫说，问事不知。</p><p>闲事休管，无事早归。</p><p>假缎染就真红色，也被旁人说是非。</p><p>善事可作，恶事莫为。</p><p>许人一物，千金不移。</p><p>龙生龙子，虎生豹儿。</p><p>龙游浅水遭虾戏，虎落平阳被犬欺。</p><p>一举首登龙虎榜，十年身到风凰池。</p><p>十年窗下无人问，一举成名天下知。</p><p>酒债寻常行处有，人生七十古来稀。</p><p>养儿待老，积谷防饥。</p><p>鸡豚狗彘之畜，无失其时。</p><p>数家之口，可以无饥矣。</p><p>常将有日思无日，莫把无时当有时。</p><p>时来风送腾王阁，运去雷轰荐福碑。</p><p>入门休问荣枯事，观看容颜便得知。</p><p>官清书吏瘦，神灵庙祝肥。</p><p>息却雷霆之怒，罢却虎狼之威。</p><p>饶人算人之本，输人算人之机。</p><p>好言难得，恶语易施。</p><p>一言既出，驷马难追。</p><p>道吾好者是吾贼，道吾恶者是吾师。</p><p>路逢侠客须呈剑，不是才人莫献诗。</p><p>三人同行，必有我师，择其善者而从之，其不善者而改之。</p><p>少壮不努力，老大徒悲伤。</p><p>人有善愿，天必佑之。</p><p>莫饮卯时酒，昏昏醉到酉。</p><p>莫骂酉时妻，一夜受孤凄。</p><p>种麻得麻，种豆得豆。</p><p>天眼恢恢，疏而不漏。</p><p>见官莫向前，做客莫在后。</p><p>宁添一斗，莫添一口。</p><p>螳螂捕蝉，岂知黄雀在后。</p><p>不求金玉重重贵，但愿儿孙个个贤。</p><p>一日夫妻，百世姻缘。</p><p>百世修来同船渡，千世修来共枕眠。</p><p>杀人一万，自损三千。</p><p>伤人一语，利如刀割。</p><p>枯木逢春犹再发，人无两度再少年。</p><p>未晚先投宿，鸡鸣早看天。</p><p>将相胸前堪走马，公候肚里好撑船。</p><p>富人思来年，穷人思眼前。</p><p>世上若要人情好，赊去物件莫取钱。</p><p>死生有命，富贵在天。</p><p>击石原有火，不击乃无烟。</p><p>为学始知道，不学亦徒然。</p><p>莫笑他人老，终须还到老。</p><p>但能依本分，终须无烦恼。</p><p>君子爱财，取之有道。</p><p>贞妇爱色，纳之以礼。</p><p>善有善报，恶有恶报。</p><p>不是不报，日子不到。</p><p>人而无信，不知其可也。</p><p>一人道好，千人传实。</p><p>凡事要好，须问三老。</p><p>若争小可，便失大道。</p><p>年年防饥，夜夜防盗。</p><p>学者如禾如稻，不学者如蒿如草。</p><p>遇饮酒时须饮酒，得高歌处且高歌。</p><p>因风吹火，用力不多。</p><p>不因渔父引，怎得见波涛。</p><p>无求到处人情好，不饮从他酒价高。</p><p>知事少时烦恼少，识人多处是非多。</p><p>入山不怕伤人虎，只怕人情两面刀。</p><p>强中更有强中手，恶人须用恶人磨。</p><p>会使不在家豪富，风流不用着衣多。</p><p>光阴似箭，日月如梭。</p><p>天时不如地利，地利不如人和。</p><p>黄金未为贵，安乐值钱多。</p><p>世上万般皆下品，思量唯有读书高。</p><p>世间好语书说尽，天下名山僧占多。</p><p>为善最乐，为恶难逃。</p><p>羊有跪乳之恩，鸦有反哺之义。</p><p>你急他未急，人闲心不闲。</p><p>隐恶扬善，执其两端。</p><p>妻贤夫祸少，子孝父心宽。</p><p>既坠釜甑，反顾无益。</p><p>翻覆之水，收之实难。</p><p>人生知足何时足，人老偷闲且是闲。</p><p>但有绿杨堪系马，处处有路透长安。</p><p>见者易，学者难。</p><p>莫将容易得，便作等闲看。</p><p>用心计较般般错，退步思量事事难。</p><p>道路各别，养家一般。</p><p>从俭入奢易，从奢入俭难。</p><p>知音说与知音听，不是知音莫与弹。</p><p>点石化为金，人心犹未足。</p><p>信了肚，卖了屋。</p><p>他人观花，不涉你目。</p><p>他人碌碌，不涉你足。</p><p>谁人不爱子孙贤，谁人不爱千钟粟。</p><p>莫把真心空计较，五行不是这题目。</p><p>与人不和，劝人养鹅。</p><p>与人不睦，劝人架屋。</p><p>但行好事，莫问前程。</p><p>河狭水急，人急计生。</p><p>明知山有虎，莫向虎山行。</p><p>路不行不到，事不为不成。</p><p>人不劝不善，钟不打不鸣。</p><p>无钱方断酒，临老始看经。</p><p>点塔七层，不如暗处一灯。</p><p>万事劝人休瞒昧，举头三尺有神明。</p><p>但存方寸土，留与子孙耕。</p><p>灭却心头火，剔起佛前灯。</p><p>惺惺常不足，懵懵作公卿。</p><p>众星朗朗，不如孤月独明。</p><p>兄弟相害，不如自生。</p><p>合理可作，小利莫争。</p><p>牡丹花好空入目，枣花虽小结实成。</p><p>欺老莫欺小，欺人心不明。</p><p>随分耕锄收地利，他时饱满谢苍天。</p><p>得忍且忍，得耐且耐。</p><p>不忍不耐，小事成大。</p><p>相论逞英雄，家计渐渐退。</p><p>贤妇令夫贵，恶妇令夫败。</p><p>一人有庆，兆民咸赖。</p><p>人老心未老，人穷志莫穷。</p><p>人无千日好，花无百日红。</p><p>杀人可恕，情理难容。</p><p>乍富不知新受用，乍贫难改旧家风。</p><p>座上客常满，樽中酒不空。</p><p>屋漏更遭连年雨，行船又遇打头风。</p><p>笋因落箨方成竹，鱼为奔波始化龙。</p><p>记得少年骑竹马，看看又是白头翁。</p><p>礼义生于富足，盗贼出于贫穷。</p><p>天上众星皆拱北，世间无水不朝东。</p><p>君子安平，达人知命。</p><p>忠言逆耳利于行，良药苦口利于病。</p><p>顺天者存，逆天者亡。</p><p>人为财死，鸟为食亡。</p><p>夫妻相合好，琴瑟与笙簧。</p><p>有儿贫不久，无子富不长。</p><p>善必寿老，恶必早亡。</p><p>爽口食多偏作药，快心事过恐生殃。</p><p>富贵定要安本分，贫穷不必枉思量。</p><p>画水无风空作浪，绣花虽好不闻香。</p><p>贪他一斗米，失却半年粮。</p><p>争他一脚豚，反失一肘羊。</p><p>龙归晚洞云犹湿，麝过春山草木香。</p><p>平生只会量人短，何不回头把自量。</p><p>见善如不及，见恶如探汤。</p><p>人贫志短，马瘦毛长。</p><p>自家心里急，他人未知忙。</p><p>贫无达士将金赠，病有高人说药方。</p><p>触来莫与说，事过心清凉。</p><p>秋至满山多秀色，春来无处不花香。</p><p>凡人不可貌相，海水不可斗量。</p><p>清清之水，为土所防。</p><p>济济之士，为酒所伤。</p><p>蒿草之下，或有兰香。</p><p>茅茨之屋，或有侯王。</p><p>无限朱门生饿殍，几多白屋出卿。</p><p>醉后乾坤大，壶中日月长。</p><p>万事皆已定，浮生空白茫。</p><p>千里送毫毛，礼轻仁义重。</p><p>一人传虚，百人传实。</p><p>世事明如镜，前程暗似漆。</p><p>光阴黄金难买，一世如驹过隙。</p><p>良田万倾，日食一升。</p><p>大厦千间，夜眠八尺。</p><p>千经万典，孝义为先。</p><p>一字入公门，九牛拖不出。</p><p>衙门八字开，有理无钱莫进来。</p><p>富从升合起，贫因不算来。</p><p>家中无才子，官从何处来。</p><p>万事不由人计较，一生都是命安排。</p><p>急行慢行，前程只有多少路。</p><p>人间私语，天闻若雷。</p><p>暗室亏心，神目如电。</p><p>一毫之恶，劝人莫作。</p><p>一毫之善，与人方便。</p><p>欺人是祸，饶人是福。</p><p>天眼恢恢，报应甚速。</p><p>圣贤言语，神钦鬼伏。</p><p>人各有心，心各有见。</p><p>口说不如身逢，耳闻不如目见。</p><p>养军千日，用在一朝。</p><p>国清才子贵，家富小儿骄。</p><p>利刀割体痕易合，恶语伤人恨不消。</p><p>公道世间唯白发，贵人头上不曾饶。</p><p>有钱堪出众，无衣懒出门。</p><p>为官须作相，及第必争先。</p><p>苗从地发，树向枝分。</p><p>父子和而家不退，兄弟和而家不分。</p><p>官有正条，民有和约。</p><p>闲时不烧香，急时抱佛脚。</p><p>幸生太平无事日，恐逢年老不多时。</p><p>国乱思良将，家贫思贤妻。</p><p>池塘积水须防旱，田地勤耕足养家。</p><p>根深不怕风摇动，树正无愁月影斜。</p><p>奉劝君子，各宜守己。</p><p>只此程式，万无一失。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;古训《增广贤文》&quot;&gt;&lt;a href=&quot;#古训《增广贤文》&quot; class=&quot;headerlink&quot; title=&quot;古训《增广贤文》&quot;&gt;&lt;/a&gt;古训《增广贤文》&lt;/h1&gt;&lt;p&gt;昔时贤文，诲汝谆谆，集韵增文，多见多闻。&lt;/p&gt;
+&lt;p&gt;观今宜鉴古，无古不成今。&lt;/p&gt;
+&lt;p&gt;知己知彼，将心比心。&lt;/p&gt;
+&lt;p&gt;酒逢知己饮，诗向会人吟。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="古训," scheme="https://github.com/IsFile/tags/%E5%8F%A4%E8%AE%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/IsFile/2017/09/20/hello-world/"/>
+    <id>https://github.com/IsFile/2017/09/20/hello-world/</id>
+    <published>2017-09-20T14:50:48.172Z</published>
+    <updated>2017-09-22T10:06:54.645Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
