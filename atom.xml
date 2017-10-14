@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/IsFile/"/>
-  <updated>2017-09-26T14:43:59.547Z</updated>
+  <updated>2017-10-14T08:30:41.182Z</updated>
   <id>https://github.com/IsFile/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>黑客游戏</title>
+    <link href="https://github.com/IsFile/2017/10/14/%E9%BB%91%E5%AE%A2%E6%B8%B8%E6%88%8F/"/>
+    <id>https://github.com/IsFile/2017/10/14/黑客游戏/</id>
+    <published>2017-10-14T08:25:00.000Z</published>
+    <updated>2017-10-14T08:30:41.182Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>黑客榜中榜第一期：</p><p><a href="http://www.cn-hack.cn/qs/5.htm" target="_blank" rel="external">http://www.cn-hack.cn/qs/5.htm</a></p><h1 id="第一关"><a href="#第一关" class="headerlink" title="第一关"></a>第一关</h1><a id="more"></a><p>查看页面的源代码<br>看到确定按钮对应着一个函数PassConfirm<br>在Console中交互输入PassConfirm既可以看到函数体<br>把x==”go “引号里的内容复制过去,就是密码<br>    <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">&lt;script language=<span class="string">"Javascript"</span>&gt;</div><div class="line"><span class="keyword">function</span> <span class="function"><span class="title">PassConfirm</span></span>() &#123;</div><div class="line">var x=document.password.pass.value</div><div class="line"><span class="keyword">if</span> (x==<span class="string">"go "</span>) &#123;</div><div class="line">alert(<span class="string">"恭喜您，答对了，进入第二关！"</span>)</div><div class="line">window.open(<span class="string">"2sdfadf.htm"</span>,<span class="string">"_self"</span>) &#125;</div><div class="line"><span class="keyword">else</span> &#123;</div><div class="line">alert(<span class="string">"别灰心，再试一次!"</span>)</div><div class="line">window.open(<span class="string">"error.asp"</span>,<span class="string">"_self"</span>) &#125;</div><div class="line">&#125;</div><div class="line">&lt;/SCRIPT&gt;</div></pre></td></tr></table></figure></p><h1 id="第二关"><a href="#第二关" class="headerlink" title="第二关"></a>第二关</h1><p>发现鼠标右键被禁用<br>输入javascript:alert(document.oncontextmenu=”)到浏览器按回车<br>然后再图片上右键另存为桌面<br>注意不要直接拖到桌面上，那样会是一个gif文件<br>用notepad++打开003.jpg文件，发现密码信息。注意是or3.htm不是or3.html<br>看到这么一句话:”下一关or3.htm”，有部分乱码<br>下一关的网址是:<a href="http://www.cn-hack.cn/qs/or3.htm" target="_blank" rel="external">http://www.cn-hack.cn/qs/or3.htm</a></p><h1 id="第三关-http-URL编码"><a href="#第三关-http-URL编码" class="headerlink" title="第三关 http URL编码"></a>第三关 http URL编码</h1><p>根据密码提示：<br>    <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">%68%74%74%70%3A%2F%2F%77%77%77%2E%63%6E%2D%68%61%63%6</div><div class="line">B%2E%63%6E%2F%71%73%2F%34%64%66%73%61%2E%68%74%6D</div></pre></td></tr></table></figure></p><p>这是html URL编码，可以在线找到解码工具，解码结果：<a href="http://www.cn-hack.cn/qs/4dfsa.htm" target="_blank" rel="external">http://www.cn-hack.cn/qs/4dfsa.htm</a><br>网络标准RFC 1738做了硬性规定：<br>    <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="string">"...Only alphanumerics [0-9a-zA-Z], the special characters "</span>$-_.+!*<span class="string">'()," [not including the quotes - ed], and reserved characters used for their reserved purposes may be used unencoded within a URL."</span></div><div class="line"><span class="string">"只有字母和数字[0-9a-zA-Z]、一些特殊符号"$-_.+!*'</span>(),<span class="string">"[不包括双引号]、以及某些保留字，才可以不经过编码直接用于URL。"</span></div><div class="line"></div><div class="line">unescape(‘%68%74%74%70%3A%2F%2F%77%77%77%2E%63%6E%2D%68%61%63%6B%2E%63%6E%2F%71%73%2F%34%64%66%73%61%2E%68%74%6D’)</div><div class="line">escape 是编码，还有</div><div class="line">encodeURI() decodeURI()</div><div class="line">encodeURIComponent() decodeURIComponent()</div></pre></td></tr></table></figure></p><h1 id="第四关"><a href="#第四关" class="headerlink" title="第四关"></a>第四关</h1><p>照常查看源文件，没发现可用的东西<br>随便提交个<br>来到了另一个页面,再次查看源代码<br>有一行是写着:<br><a href="http://www.cn-hack.cn/qs/789.htm" target="_blank" rel="external">http://www.cn-hack.cn/qs/789.htm</a></p><h1 id="第五关"><a href="#第五关" class="headerlink" title="第五关"></a>第五关</h1><p>通用密码的两个字母，通用密码XX’ or ‘1’ = ‘1试一下:or<br>顺利通关</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;黑客榜中榜第一期：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cn-hack.cn/qs/5.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.cn-hack.cn/qs/5.htm&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;第一关&quot;&gt;&lt;a href=&quot;#第一关&quot; class=&quot;headerlink&quot; title=&quot;第一关&quot;&gt;&lt;/a&gt;第一关&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="黑客,游戏" scheme="https://github.com/IsFile/tags/%E9%BB%91%E5%AE%A2-%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>python之禅</title>
